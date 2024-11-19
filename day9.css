@@ -1,0 +1,48 @@
+/* p{
+    color: black;
+    background-color: aquamarine;
+}
+#st-1{
+    color: blue;
+}
+.st-2{
+    color: red;
+}
+.st-3{
+    color:violet;
+} */
+/* p{
+    background-color: red;
+    background: url("https://tse4.mm.bing.net/th?id=OIP.k2LZC5ZIIDQUr0EO6zNCFgHaE6&pid=Api&P=0&h=180");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat; */
+
+}
+p{
+    background-color: blue
+    text-align: center;
+    color: red;
+}
+
+p{
+    background-color: bisque;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 500px;
+    height: 500px;
+}
+
+p{
+    background-color: blanchedalmond;
+    color: aquamarine;
+ }
+
+p{
+    border-width: 2px;
+    border-color: brown;
+    border-right: groove;
+    border-image: url("");
+    border-radius: 40px;
+}
